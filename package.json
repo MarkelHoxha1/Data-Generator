@@ -1,5 +1,5 @@
 {
-    "name": "data-generator",
+    "name": "pr-e-las",
     "version": "1.0.0",
     "description": "A simple data generator command line tool to generate random data based on a specific template.",
     "main": "src/index.js",
