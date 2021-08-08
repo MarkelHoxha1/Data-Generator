@@ -15,5 +15,9 @@
     "bugs": {
         "url": "https://github.com/MarkelHoxha1/Data-Generator/issues"
     },
-    "homepage": "https://github.com/MarkelHoxha1/Data-Generator#readme"
+    "homepage": "https://github.com/MarkelHoxha1/Data-Generator#readme",
+    "dependencies": {
+        "chance": "^1.1.7",
+        "commander": "^8.1.0"
+    }
 }
