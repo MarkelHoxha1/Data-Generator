@@ -7,13 +7,13 @@ The application is using [Chance.js](http://chancejs.com/) to generate random da
 ## Installation
 
 ```
-npm install --global data-generator
+npm install --global pr-e-las
 ```
 
 ## Usage
 
 ```
-  Usage: data-generator [options]
+  Usage: pr-e-las [options]
 
   Options:
 
@@ -30,11 +30,11 @@ npm install --global data-generator
 In Linux can be used like below:
 
 ```
-data-generator -t '{ "name": "name", "age": "age", "phone": "phone", "_id": "guid" }' -c 2 -f StudentData.json
+pr-e-las -t '{ "name": "name", "age": "age", "phone": "phone", "_id": "guid" }' -c 2 -f StudentData.json
 ```
 
 In Windows can be used like below:
 
 ```
-data-generator -t '{ \"name": \"name", \"age": \"age", \"phone": \"phone", \"_id": \"guid" }' -c 2 -f StudentData.json
+pr-e-las -t '{ \"name": \"name", \"age": \"age", \"phone": \"phone", \"_id": \"guid" }' -c 2 -f StudentData.json
 ```
